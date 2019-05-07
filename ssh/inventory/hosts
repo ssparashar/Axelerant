@@ -1,0 +1,9 @@
+[instances]
+
+instance1
+instance2
+
+[instances:vars]
+
+user_name=ssp
+user_des="New Developer"
